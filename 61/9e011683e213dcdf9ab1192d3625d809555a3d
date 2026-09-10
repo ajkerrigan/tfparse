@@ -1,0 +1,21 @@
+gotfparse/go.mod
+  s_26cc22d40fc3c1::t_7955a69bd9b2a8 119
+gotfparse/go.sum
+  ai_agent 103-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "619e011683e213dcdf9ab1192d3625d809555a3d",
+  "prompts": {},
+  "sessions": {
+    "s_26cc22d40fc3c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2344a187-c676-4c29-b3da-3660e80581b7",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
