@@ -1,0 +1,21 @@
+gotfparse/go.mod
+  s_26cc22d40fc3c1::t_2bbf18dd7c6902 119
+gotfparse/go.sum
+  ai_agent 43-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5ffb8cace9960ade4eac7344f4d647344f752d5a",
+  "prompts": {},
+  "sessions": {
+    "s_26cc22d40fc3c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2344a187-c676-4c29-b3da-3660e80581b7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
