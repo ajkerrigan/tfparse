@@ -1,0 +1,28 @@
+gotfparse/go.mod
+  h_07d49deca46b44 3,9,15,18,20,28,33-50,61,64,67-68,77,79-80,92-101,103-105,107,109,111-113,119
+gotfparse/go.sum
+  h_07d49deca46b44 5-6,11-12,15-16,19-20,49-50,59-94,103-106,152-155,159-160,175-176,183-186,208-209,220-223,230-235,238-241,261-262,267-268,281-284,295-296,305-310,313-328,331-338,341-342,347-348,351-356
+gotfparse/pkg/converter/converter.go
+  h_07d49deca46b44 283
+justfile
+  h_07d49deca46b44 116-157
+requirements-dev.txt
+  h_07d49deca46b44 7,9,11,15,17,23,27,29,33,39,41,47
+setup.py
+  h_07d49deca46b44 23
+tests/terraform/func-check/root/main.tf
+  h_07d49deca46b44 2-10,24
+tests/test_tfparse.py
+  h_07d49deca46b44 579-586,594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f6431c9abe2d102f046a470ad6f5d2b9ad90110c",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
