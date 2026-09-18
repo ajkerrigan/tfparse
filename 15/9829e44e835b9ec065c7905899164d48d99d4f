@@ -1,0 +1,14 @@
+.tool-versions
+  h_07d49deca46b44 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "159829e44e835b9ec065c7905899164d48d99d4f",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
