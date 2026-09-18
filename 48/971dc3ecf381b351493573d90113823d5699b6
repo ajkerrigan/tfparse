@@ -1,0 +1,18 @@
+tests/terraform/module-in-out-nested/main.tf
+  h_07d49deca46b44 20,26
+tests/terraform/module-in-out-nested/module/tags/base/main.tf
+  h_07d49deca46b44 2,14
+tests/test_tfparse.py
+  h_07d49deca46b44 559,561
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "48971dc3ecf381b351493573d90113823d5699b6",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
