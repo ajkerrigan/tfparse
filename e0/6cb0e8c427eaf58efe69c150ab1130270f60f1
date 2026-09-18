@@ -1,0 +1,14 @@
+.github/workflows/release.yml
+  h_07d49deca46b44 44-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e06cb0e8c427eaf58efe69c150ab1130270f60f1",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
