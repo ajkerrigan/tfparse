@@ -1,0 +1,14 @@
+setup.py
+  h_07d49deca46b44 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "07a445878aef38ad4cd9554fe2e6a0dfad89f35d",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
