@@ -1,0 +1,16 @@
+tests/test_tfparse.py
+  h_07d49deca46b44 56,67
+tfparse/build_cffi.py
+  h_07d49deca46b44 15,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "310e6da56db9b1cf7941d5bd886f7ada0bb9c0bd",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
