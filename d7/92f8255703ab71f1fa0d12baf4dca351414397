@@ -1,0 +1,16 @@
+requirements-dev.in
+  h_07d49deca46b44 1-7
+requirements-dev.txt
+  h_07d49deca46b44 1-6,8-48,50,52-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d792f8255703ab71f1fa0d12baf4dca351414397",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
