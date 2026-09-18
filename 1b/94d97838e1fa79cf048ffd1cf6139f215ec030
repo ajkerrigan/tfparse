@@ -1,0 +1,16 @@
+gotfparse/go.mod
+  h_07d49deca46b44 119
+gotfparse/go.sum
+  h_07d49deca46b44 103-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1b94d97838e1fa79cf048ffd1cf6139f215ec030",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
