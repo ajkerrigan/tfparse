@@ -1,0 +1,18 @@
+gotfparse/pkg/converter/converter.go
+  h_07d49deca46b44 579
+tests/terraform/dynamic-stuff/main.tf
+  h_07d49deca46b44 41-52
+tests/test_tfparse.py
+  h_07d49deca46b44 283-296,301,380
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "876114d30b6fbc2efcaf23099ea1f73476c703d8",
+  "prompts": {},
+  "humans": {
+    "h_07d49deca46b44": {
+      "author": "AJ Kerrigan <aj@stacklet.io>"
+    }
+  }
+}
